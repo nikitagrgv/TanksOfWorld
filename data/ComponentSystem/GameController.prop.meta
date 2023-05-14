@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>ba5d8c466bb20f75587d894e0540d80cfa945225</guid>
+	<type>property</type>
+	<hash>ad6159ec</hash>
+	<runtimes>
+		<runtime id="ba5d8c466bb20f75587d894e0540d80cfa945225" name="GameController" link="0" type="4"/>
+	</runtimes>
+</asset>

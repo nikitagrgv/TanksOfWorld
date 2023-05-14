@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>f6893077ee7bb8b63b769403bf34c7c9599c29ec</guid>
+	<type>property</type>
+	<hash>423a05d9</hash>
+	<runtimes>
+		<runtime id="f6893077ee7bb8b63b769403bf34c7c9599c29ec" name="TankBot" link="0" type="4"/>
+	</runtimes>
+</asset>

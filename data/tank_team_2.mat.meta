@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>6b6f6dbdce45d3f83ba786f731d637ea94710641</guid>
+	<type>material</type>
+	<hash>548052ee</hash>
+	<runtimes>
+		<runtime id="6b6f6dbdce45d3f83ba786f731d637ea94710641" name="tank_team_2" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

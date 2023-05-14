@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>1a98eb597fa95ce4454f82f339606bb61604ef9d</guid>
+	<type>node</type>
+	<hash>9b98b85d</hash>
+	<runtimes>
+		<runtime id="1a98eb597fa95ce4454f82f339606bb61604ef9d" name="Cursor.node" link="0" type="3"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>917d56addbbe8c4755fcb6ca2888af49552f3987</guid>
+	<type>property</type>
+	<hash>72edb55b</hash>
+	<runtimes>
+		<runtime id="917d56addbbe8c4755fcb6ca2888af49552f3987" name="ReloadBar" link="0" type="4"/>
+	</runtimes>
+</asset>

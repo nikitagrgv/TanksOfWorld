@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>48b8883ac1befa519cc6ef7cd91084abcbd4d20e</guid>
+	<type>node</type>
+	<hash>21243135</hash>
+	<runtimes>
+		<runtime id="48b8883ac1befa519cc6ef7cd91084abcbd4d20e" name="Bot2.node" link="0" type="3"/>
+	</runtimes>
+</asset>

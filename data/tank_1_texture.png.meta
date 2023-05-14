@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>1bb3daedaef07f686290dba7689da4da75692e71</guid>
+	<type>texture</type>
+	<hash>df01ad73</hash>
+	<runtimes>
+		<runtime id="1bb3daedaef07f686290dba7689da4da75692e71" name="tank_1_texture.png" link="0" type="6"/>
+		<runtime id="a450551ce6286dcbc10e68ae00dd98356f81cc10" name="tank_1_texture.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

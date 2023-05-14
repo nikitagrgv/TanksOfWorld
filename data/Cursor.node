@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.0.2">
+	<node type="ObjectMeshStatic" id="1943551679" name="Cursor">
+		<mesh_name>guid://f71b6b9136d82fbcd1ca47eb824f3c4e501a1755</mesh_name>
+		<surface name="sphere" cast_shadow="0" cast_world_shadow="0" cast_env_probe_shadow="0" intersection="0" shadow_mask="0x0" physics_friction="1" physics_restitution="1" material="6039142cd5aa819badde4a3ee25b6c85c14d7420"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

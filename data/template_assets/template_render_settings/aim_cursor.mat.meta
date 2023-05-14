@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>6039142cd5aa819badde4a3ee25b6c85c14d7420</guid>
+	<type>material</type>
+	<hash>ceb62c88</hash>
+	<runtimes>
+		<runtime id="6039142cd5aa819badde4a3ee25b6c85c14d7420" name="aim_cursor" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

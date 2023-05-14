@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.0.2" guid="0809256ff1a714020815c379683d16841165b013" base_material="ee4cbd68892b61a53e7ded930b825d0f53ac250e">
+	<options order="0"/>
+	<state name="emission">1</state>
+	<state name="material_ssao">0</state>
+	<state name="material_ssr">0</state>
+	<state name="material_dof">0</state>
+	<state name="material_motion_blur">0</state>
+	<state name="material_screen_space_shadows">0</state>
+	<parameter name="diffuse_color" expression="0">0 1 0 1</parameter>
+	<parameter name="emission_color" expression="0">0 1 0 1</parameter>
+</material>

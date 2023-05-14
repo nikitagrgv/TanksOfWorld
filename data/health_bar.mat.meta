@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>0809256ff1a714020815c379683d16841165b013</guid>
+	<type>material</type>
+	<hash>f6085034</hash>
+	<runtimes>
+		<runtime id="0809256ff1a714020815c379683d16841165b013" name="health_bar" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

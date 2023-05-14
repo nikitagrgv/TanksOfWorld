@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.0.2" name="TankBot" manual="1" parent_name="node_base">
+	<parameter name="fov" type="float" group="Visibility">60</parameter>
+	<parameter name="max_visible_distance" type="float" group="Visibility">150</parameter>
+</property>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.0.2" name="GameController" manual="1" parent_name="node_base">
+	<parameter name="field_size" type="vec2" group="Field settings">0.000000 0.000000</parameter>
+	<parameter name="grid_cell_size" type="float" group="Spawn settings">0</parameter>
+	<parameter name="team1_tank" type="file" group="Spawn settings"/>
+	<parameter name="team2_tank" type="file" group="Spawn settings"/>
+	<parameter name="player_tank" type="file" group="Spawn settings"/>
+	<parameter name="team1_tanks_count" type="int" group="Spawn settings">0</parameter>
+	<parameter name="team2_tanks_count" type="int" group="Spawn settings">0</parameter>
+	<parameter name="shot_intersections_mask" type="mask" group="Shooting settings">1</parameter>
+</property>

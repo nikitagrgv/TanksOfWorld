@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.0.2">
+	<node type="NodeDummy" id="2026904279" name="Bot2">
+		<properties>
+			<property parent="16952bf087a1604e862466378dcaf1372a408955" guid="d929fdc4c6d0ee53da1b1f96340b51fd6561eb38">
+				<parameter name="node_hull">1754144641</parameter>
+				<parameter name="node_tower">1068171730</parameter>
+				<parameter name="node_gun">1210089010</parameter>
+				<parameter name="node_gun_shooter">725156139</parameter>
+				<parameter name="team_index">1</parameter>
+			</property>
+			<property parent="f6893077ee7bb8b63b769403bf34c7c9599c29ec" guid="5e983537e1bc912a01f30e81982715ecad33185b"/>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1754144641" name="Hull">
+			<mesh_name>guid://5a920e346a96640356363986d631432d4d184aa8</mesh_name>
+			<surface name="box" cast_shadow="0" cast_env_probe_shadow="0" physics_friction="1" physics_restitution="1" material="6b6f6dbdce45d3f83ba786f731d637ea94710641"/>
+			<transform>0.99999988 0 0 0.0 0 0.99999952 0 0.0 0 0 0.99999917 0.0 0 0 0.8500002 1.0</transform>
+			<node type="ObjectMeshStatic" id="1068171730" name="Tower">
+				<mesh_name>guid://5bc276bef92caf05c8ecd4a090cd7f7feb1206d2</mesh_name>
+				<surface name="cylinder" cast_shadow="0" cast_env_probe_shadow="0" physics_friction="1" physics_restitution="1" material="6b6f6dbdce45d3f83ba786f731d637ea94710641"/>
+				<transform>0.99999988 0 0 0.0 0 1.4 0 0.0 0 0 0.99999988 0.0 0 0 1.4 1.0</transform>
+				<node type="NodeDummy" id="1210089010" name="GunPivot">
+					<transform>0.99999607 0 0 0.0 0 0.99999362 0 0.0 0 0 0.99999243 0.0 0 0.69827604 -0.050000191 1.0</transform>
+					<node type="NodeDummy" id="725156139" name="FirePoint">
+						<transform>1 -2.2243046e-07 1.7088944e-08 0.0 4.3596134e-07 0.99999994 -1.4901163e-07 0.0 -1.7088759e-08 7.6026076e-08 0.99999976 0.0 1.1920929e-06 2.1004355 0 1.0</transform>
+					</node>
+					<node type="ObjectMeshStatic" id="1107115594" name="Gun">
+						<mesh_name>guid://708d49cb73d594aebc82d435a8cdd810ec894c2f</mesh_name>
+						<surface name="cylinder" cast_shadow="0" cast_env_probe_shadow="0" physics_friction="1" physics_restitution="1" material="6b6f6dbdce45d3f83ba786f731d637ea94710641"/>
+						<transform>0.99999988 0 0 0.0 0 3.5762787e-07 1 0.0 0 -0.99999923 3.5762758e-07 0.0 0 0.81872606 0 1.0</transform>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node id="305279824" type="ObjectBillboards" name="HealthBar">
+			<billboards num_billboards="1">0 0 0 1 1 0 0 4 0.25 0</billboards>
+			<surface name="billboards" cast_shadow="0" cast_world_shadow="0" cast_env_probe_shadow="0" intersection="0" physics_friction="1" physics_restitution="1" material="0809256ff1a714020815c379683d16841165b013"/>
+			<data>
+				<unigine_editor>
+					<generator>
+						<count>16</count>
+						<atlas_width>1</atlas_width>
+						<atlas_height>1</atlas_height>
+						<radius_mean>0</radius_mean>
+						<radius_spread>0</radius_spread>
+						<aspect_mean>1</aspect_mean>
+						<aspect_spread>0</aspect_spread>
+						<angle_mean>0</angle_mean>
+						<angle_spread>0</angle_spread>
+						<mesh/>
+					</generator>
+				</unigine_editor>
+			</data>
+			<properties>
+				<property parent="7066b0ebf21c4f4109341eb9da80f8830a71f7b1" guid="c49e71fe7bb3f145c670b1e095e73bbfd0a21612">
+					<parameter name="tank_node">2026904279</parameter>
+					<parameter name="max_width">2</parameter>
+				</property>
+			</properties>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 3.3729496 1.0</transform>
+		</node>
+	</node>
+</nodes>

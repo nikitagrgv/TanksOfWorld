@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>16952bf087a1604e862466378dcaf1372a408955</guid>
+	<type>property</type>
+	<hash>a0f07722</hash>
+	<runtimes>
+		<runtime id="16952bf087a1604e862466378dcaf1372a408955" name="TankController" link="0" type="4"/>
+	</runtimes>
+</asset>

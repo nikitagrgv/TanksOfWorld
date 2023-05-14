@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.0.2" guid="03727b6f14447202ab8789795fe824842aa96613" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<options cast_shadow="0" cast_world_shadow="0"/>
+	<state name="emission">1</state>
+	<state name="material_ssao">0</state>
+	<state name="material_ssr">0</state>
+	<state name="material_dof">0</state>
+	<state name="material_motion_blur">0</state>
+	<state name="material_screen_space_shadows">0</state>
+	<state name="material_shoreline_wetness">0</state>
+	<parameter name="emission_scale" expression="0">44</parameter>
+</material>

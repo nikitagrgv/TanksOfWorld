@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>7066b0ebf21c4f4109341eb9da80f8830a71f7b1</guid>
+	<type>property</type>
+	<hash>ded437ac</hash>
+	<runtimes>
+		<runtime id="7066b0ebf21c4f4109341eb9da80f8830a71f7b1" name="HealthBar" link="0" type="4"/>
+	</runtimes>
+</asset>

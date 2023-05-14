@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>36b2b30ab2d206e1abcff2cc86a78fbbdf78c1de</guid>
+	<type>material</type>
+	<hash>fa39a66d</hash>
+	<runtimes>
+		<runtime id="36b2b30ab2d206e1abcff2cc86a78fbbdf78c1de" name="reload_bar" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

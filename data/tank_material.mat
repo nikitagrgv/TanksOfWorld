@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.0.2" guid="50151eb3b737d4768871c15d5f55d318e33e3b97" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="cast_gi">0</state>
+	<state name="material_ssao">0</state>
+	<state name="material_ssr">0</state>
+	<state name="material_dof">0</state>
+	<state name="material_motion_blur">0</state>
+	<state name="material_screen_space_shadows">0</state>
+	<state name="material_shoreline_wetness">0</state>
+	<texture name="albedo">guid://a450551ce6286dcbc10e68ae00dd98356f81cc10</texture>
+	<parameter name="metalness" expression="0">0.674279988</parameter>
+	<parameter name="roughness" expression="0">0.55114001</parameter>
+</material>

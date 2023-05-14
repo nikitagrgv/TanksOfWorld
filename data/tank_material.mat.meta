@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.0.2">
+	<guid>50151eb3b737d4768871c15d5f55d318e33e3b97</guid>
+	<type>material</type>
+	<hash>51f94e22</hash>
+	<runtimes>
+		<runtime id="50151eb3b737d4768871c15d5f55d318e33e3b97" name="tank_material" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.0.2" name="PlayerController" manual="1" parent_name="node_base">
+	<parameter name="followed_node" type="node" group="Player camera settings">0</parameter>
+	<parameter name="min_camera_angle" type="float" group="Player camera settings">-20</parameter>
+	<parameter name="max_camera_angle" type="float" group="Player camera settings">89</parameter>
+	<parameter name="camera_distance" type="float" group="Player camera settings">9</parameter>
+	<parameter name="cursor_node_file" type="file" group="Player control settings"/>
+	<parameter name="cursor_max_distance" type="float" group="Player control settings">800</parameter>
+	<parameter name="cursor_intersections_mask" type="mask" group="Player control settings">1</parameter>
+</property>
